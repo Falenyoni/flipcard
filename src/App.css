@@ -1,0 +1,14 @@
+.App {
+  /* === SIZING === */
+  width: 100%;
+  height: 100%;
+
+  /* === Content Alignment ===*/
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: start;
+  text-align: center;  
+}
